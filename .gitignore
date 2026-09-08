@@ -2,3 +2,5 @@ supercronic
 vendor
 dist/*
 .idea
+# Added by goreleaser init:
+dist/
